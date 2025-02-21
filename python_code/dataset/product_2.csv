@@ -1,0 +1,89 @@
+product_id,product_group,product_category,product_type,product,product_description,unit_of_measure,current_wholesale_price,current_retail_price,tax_exempt_yn,promo_yn,new_product_yn
+1,Soccer Jerseys,Men's Home Jersey,Classic Jersey,Barcelona Home Classic Jersey,"Experience Barcelona's heritage with this classic home jersey, designed for ultimate comfort on the pitch.",Standard,14.4,$18.00,Y,N,N
+2,Soccer Jerseys,Men's Home Jersey,Retro Jersey,Barcelona Home Retro Jersey,"Inspired by classic designs, this retro home jersey brings nostalgia to every match.",Standard,14.4,$18.00,Y,N,N
+3,Soccer Jerseys,Men's Home Jersey,Performance Jersey,Barcelona Home Performance Jersey,"Engineered for performance, this home jersey features advanced moisture-wicking fabric for peak play.",Standard,11.8,$14.75,Y,N,N
+4,Soccer Jerseys,Men's Home Jersey,Premium Home Jersey,Barcelona Home Premium Jersey,"Experience premium quality with hand-finished details on this home jersey for dedicated fans.",Standard,16.36,$20.45,Y,N,N
+5,Soccer Jerseys,Men's Home Jersey,Lightweight Jersey,Barcelona Home Lightweight Jersey,"Stay cool and agile on the field with this lightweight home jersey.",Standard,12,$15.00,Y,N,N
+6,Soccer Jerseys,Men's Home Jersey,Signature Home Jersey,Barcelona Home Signature Jersey,"Join the elite with this signature home jersey featuring unique design elements.",Standard,16.8,$21.00,Y,N,N
+7,Soccer Jerseys,Men's Home Jersey,Limited Home Jersey,Barcelona Home Limited Edition Jersey,"Limited edition home jersey with exclusive design touches for true Barcelona fans.",Standard,15.8,$19.75,Y,N,N
+8,Soccer Jerseys,Men's Home Jersey,Collector's Home Jersey,Barcelona Home Collector's Jersey,"A must-have for collectors, this home jersey is as rare as it is stylish.",Standard,36,$45.00,Y,N,N
+9,Soccer Jerseys,Men's Away Jersey,Classic Away Jersey,Barcelona Away Classic Jersey,"Embody the spirit of away matches with this classic away jersey.",Standard,18,$22.50,Y,N,N
+10,Soccer Jerseys,Men's Away Jersey,Customizable Away Jersey,Barcelona Away Custom Jersey,"Customize your away experience with this versatile jersey, built for performance.",Standard,8,$10.00,Y,N,N
+11,Soccer Jerseys,Men's Away Jersey,Heritage Away Jersey,Barcelona Away Heritage Jersey,"Inspired by tradition, this away jersey pays homage to Barcelona's storied legacy.",Standard,7.16,$8.95,Y,N,N
+12,Soccer Jerseys,Men's Away Jersey,Modern Away Jersey,Barcelona Away Modern Jersey,"A modern take on the away jersey, blending style with function.",Standard,7.16,$8.95,Y,N,N
+13,Soccer Jerseys,Men's Away Jersey,Sleek Away Jersey,Barcelona Away Sleek Jersey,"Sleek design meets high performance in this away jersey.",Standard,7.16,$8.95,Y,N,N
+14,Soccer Jerseys,Men's Away Jersey,Aerodynamic Away Jersey,Barcelona Away Aero Jersey,"Designed for speed, this away jersey features an aerodynamic design.",Standard,7.16,$8.95,Y,N,N
+15,Soccer Jerseys,Women's Jersey,Classic Women's Jersey,Barcelona Women's Classic Jersey,"Celebrate style and performance with this classic women's jersey.",Standard,7.4,$9.25,Y,N,N
+16,Soccer Jerseys,Women's Jersey,Performance Women's Jersey,Barcelona Women's Performance Jersey,"Engineered for comfort and style, this jersey is perfect for the modern athlete.",Standard,7.16,$8.95,Y,N,N
+17,Soccer Jerseys,Women's Jersey,Retro Women's Jersey,Barcelona Women's Retro Jersey,"A nod to timeless style, this retro jersey offers a blend of nostalgia and modern fit.",Standard,7.6,$9.50,Y,N,N
+18,Soccer Jerseys,Women's Jersey,Limited Women's Jersey,Barcelona Women's Limited Jersey,"Exclusively designed for a limited run, this jersey is a collector's dream.",Standard,8.76,$10.95,Y,N,N
+19,Soccer Jerseys,Limited Edition Jersey,Collectors' Edition Jersey,Barcelona Collectors' Edition Jersey,"A premium collectible jersey that stands out with unmatched craftsmanship.",Standard,5.12,$6.40,Y,N,N
+20,Soccer Jerseys,Limited Edition Jersey,Heritage Edition Jersey,Barcelona Heritage Edition Jersey,"Honoring the legacy of Barcelona, this heritage edition jersey is a must-have.",Standard,6.08,$7.60,Y,N,N
+21,Soccer Jerseys,Limited Edition Jersey,Anniversary Edition Jersey,Barcelona Anniversary Edition Jersey,"Celebrate milestones with this exclusive anniversary edition jersey, built for fans.",Standard,10.66,$13.33,Y,N,N
+22,Soccer Cleats,Men's Cleats,Lightweight Cleats - Small,Barcelona Men's Speed Cleats - Small,"Designed for agility and speed, these lightweight cleats deliver performance on every sprint.",Size 9,0.4,$2.00,Y,N,N
+23,Soccer Cleats,Men's Cleats,Lightweight Cleats - Regular,Barcelona Men's Speed Cleats - Regular,"Engineered for comfort and durability, perfect for quick moves on the field.",Size 9,0.5,$2.50,Y,N,N
+24,Soccer Cleats,Men's Cleats,Lightweight Cleats - Large,Barcelona Men's Speed Cleats - Large,"Optimized for performance with enhanced grip and stability for fast breaks.",Size 9,0.6,$3.00,Y,N,N
+25,Soccer Cleats,Men's Cleats,Eco-Friendly Cleats - Small,Barcelona Men's Eco Cleats - Small,"Crafted with sustainable materials, these cleats combine performance with eco-conscious design.",Size 9,0.44,$2.20,Y,N,N
+26,Soccer Cleats,Men's Cleats,Eco-Friendly Cleats - Regular,Barcelona Men's Eco Cleats - Regular,"Eco-friendly design meets top-tier performance on the pitch.",Size 9,0.6,$3.00,Y,N,N
+27,Soccer Cleats,Men's Cleats,Eco-Friendly Cleats - Large,Barcelona Men's Eco Cleats - Large,"Step into sustainability with these eco-friendly cleats offering both style and function.",Size 9,0.7,$3.50,Y,N,N
+28,Soccer Cleats,Men's Cleats,Pro Series Cleats - Small,Barcelona Men's Pro Cleats - Small,"Advanced design and materials for the professional player seeking competitive edge.",Size 9,0.4,$2.00,Y,N,N
+29,Soccer Cleats,Men's Cleats,Pro Series Cleats - Regular,Barcelona Men's Pro Cleats - Regular,"Engineered for high performance, these cleats provide excellent traction and comfort.",Size 9,0.5,$2.50,Y,N,N
+30,Soccer Cleats,Men's Cleats,Pro Series Cleats - Large,Barcelona Men's Pro Cleats - Large,"Achieve peak performance with cleats designed for power and agility.",Size 9,0.6,$3.00,Y,N,N
+31,Soccer Cleats,Men's Cleats,Elite Series Cleats - Small,Barcelona Men's Elite Cleats - Small,"Elite performance meets luxury, offering superior grip and precision.",Size 9,0.44,$2.20,Y,N,N
+32,Soccer Cleats,Women's Cleats,Speed Cleats - Small,Barcelona Women's Speed Cleats - Small,"Engineered for rapid acceleration and agility, these cleats ensure you stay ahead.",Size 7,0.6,$3.00,Y,N,N
+33,Soccer Cleats,Women's Cleats,Speed Cleats - Regular,Barcelona Women's Speed Cleats - Regular,"Experience unmatched comfort and speed with our tailored design for women.",Size 7,0.7,$3.50,Y,N,N
+34,Soccer Cleats,Women's Cleats,Precision Cleats - Small,Barcelona Women's Precision Cleats - Small,"Designed for precision on the field, these cleats deliver stability and control.",Size 7,0.49,$2.45,Y,N,N
+35,Soccer Cleats,Women's Cleats,Precision Cleats - Regular,Barcelona Women's Precision Cleats - Regular,"Tailored for female athletes, offering a blend of style and performance.",Size 7,0.62,$3.10,Y,N,N
+36,Soccer Cleats,Women's Cleats,Precision Cleats - Large,Barcelona Women's Precision Cleats - Large,"Step up your game with these precision-engineered cleats for ultimate performance.",Size 7,0.75,$3.75,Y,N,N
+37,Soccer Cleats,Women's Cleats,Classic Cleats - Small,Barcelona Women's Classic Cleats - Small,"A classic design reimagined for the modern game, providing comfort and durability.",Size 7,0.6,$3.00,Y,N,N
+38,Soccer Cleats,Women's Cleats,Classic Cleats - Regular,Barcelona Women's Classic Cleats - Regular,"Reliable and stylish, these cleats are a perfect choice for any match.",Size 7,0.75,$3.75,Y,N,N
+39,Soccer Cleats,Women's Cleats,Classic Cleats - Large,Barcelona Women's Classic Cleats - Large,"Experience the blend of tradition and modern design with these classic cleats.",Size 7,0.85,$4.25,Y,N,N
+40,Soccer Cleats,Women's Cleats,Advanced Cleats - Small,Barcelona Women's Advanced Cleats - Small,"Advanced design for optimal performance and comfort on the pitch.",Size 7,0.75,$3.75,Y,N,N
+41,Soccer Cleats,Women's Cleats,Advanced Cleats - Regular,Barcelona Women's Advanced Cleats - Regular,"Engineered for superior control and stability, perfect for competitive play.",Size 7,0.85,$4.25,Y,N,N
+42,Soccer Socks,Crew Socks,Moisture-Wicking Socks - Regular,Barcelona Crew Socks - Regular,"Stay dry and comfortable with these moisture-wicking crew socks designed for every match.",One Size,0.63,$2.50,Y,N,N
+43,Soccer Socks,Crew Socks,Moisture-Wicking Socks - Large,Barcelona Crew Socks - Large,"Enhanced comfort with extra cushioning and a perfect fit for long games.",One Size,0.75,$3.00,Y,N,N
+44,Soccer Socks,Crew Socks,Breathable Socks - Regular,Barcelona Crew Socks - Regular Breathable,"Experience superior breathability and fit with these performance crew socks.",One Size,0.63,$2.50,Y,N,N
+45,Soccer Socks,Crew Socks,Breathable Socks - Large,Barcelona Crew Socks - Large Breathable,"Designed for endurance, these breathable socks keep your feet cool throughout the game.",One Size,0.75,$3.00,Y,N,N
+46,Soccer Socks,Crew Socks,Comfort Fit Socks - Regular,Barcelona Crew Socks - Comfort Fit,"Feel the stress leave your feet with these comfortable and supportive socks.",One Size,0.63,$2.50,Y,N,N
+47,Soccer Socks,Crew Socks,Comfort Fit Socks - Large,Barcelona Crew Socks - Comfort Fit Large,"Large fit for added comfort and durability in every stride.",One Size,0.75,$3.00,Y,N,N
+48,Soccer Socks,Crew Socks,Classic Crew Socks - Regular,Barcelona Crew Socks - Classic,"Traditional design meets modern comfort in these classic crew socks.",One Size,0.63,$2.50,Y,N,N
+49,Soccer Socks,Crew Socks,Classic Crew Socks - Large,Barcelona Crew Socks - Classic Large,"A classic look with enhanced cushioning for extended play.",One Size,0.75,$3.00,Y,N,N
+50,Soccer Socks,Crew Socks,Lightweight Crew Socks - Regular,Barcelona Crew Socks - Lightweight,"Lightweight and durable, designed for optimal performance on the field.",One Size,0.63,$2.50,Y,N,N
+51,Soccer Socks,Crew Socks,Lightweight Crew Socks - Large,Barcelona Crew Socks - Lightweight Large,"Experience the perfect blend of style and functionality with these lightweight socks.",One Size,0.75,$3.00,Y,N,N
+52,Soccer Socks,Crew Socks,Performance Crew Socks - Regular,Barcelona Performance Socks - Regular,"Engineered for performance, these socks provide excellent support and durability.",One Size,0.63,$2.50,Y,N,N
+53,Soccer Socks,Crew Socks,Performance Crew Socks - Large,Barcelona Performance Socks - Large,"Maximize your performance with these high-quality, supportive crew socks.",One Size,0.75,$3.00,Y,N,N
+54,Soccer Socks,Crew Socks,Elite Crew Socks - Regular,Barcelona Elite Socks - Regular,"Elevate your game with elite socks designed for superior comfort and performance.",One Size,0.63,$2.50,Y,N,N
+55,Soccer Socks,Crew Socks,Elite Crew Socks - Large,Barcelona Elite Socks - Large,"Premium quality and fit, these elite socks are built for champions.",One Size,1,$4.00,Y,N,N
+56,Soccer Socks,Crew Socks,Dynamic Crew Socks - Regular,Barcelona Dynamic Socks - Regular,"Dynamic design and innovative fabric for superior comfort and support.",One Size,0.64,$2.55,Y,N,N
+57,Soccer Socks,Crew Socks,Dynamic Crew Socks - Large,Barcelona Dynamic Socks - Large,"Engineered for maximum performance, these socks deliver a perfect fit every time.",One Size,0.78,$3.10,Y,N,N
+58,Goalkeeper Gloves,Goalkeeper Gloves,Standard Gloves - Small,Barcelona Keeper Gloves - Small,"Reliable and cushioned, these goalkeeper gloves provide excellent grip and protection.",Standard,2.63,$3.50,Y,N,N
+59,Goalkeeper Gloves,Goalkeeper Gloves,Standard Gloves - Large,Barcelona Keeper Gloves - Large,"Large-sized gloves with enhanced grip for challenging saves.",Standard,3.38,$4.50,Y,N,N
+60,Goalkeeper Gloves,Goalkeeper Gloves,Eco Keeper Gloves - Small,Barcelona Eco Keeper Gloves - Small,"Made with sustainable materials, these gloves offer eco-friendly performance.",Standard,2.81,$3.75,Y,N,N
+61,Goalkeeper Gloves,Goalkeeper Gloves,Eco Keeper Gloves - Large,Barcelona Eco Keeper Gloves - Large,"Eco-friendly and performance-driven, designed for optimal handling.",Standard,3.56,$4.75,Y,N,N
+62,Goalkeeper Gloves,Goalkeeper Gloves,Extra Grip Gloves,Barcelona Extra Grip Keeper Gloves,"Added grip and comfort, these gloves ensure you never miss a save.",Standard,2.25,$3.00,Y,N,N
+63,Accessories,Accessories,Team Scarf,Barcelona Team Scarf,"Keep warm and show your pride with this stylish team scarf.",One Size,0.04,$0.80,Y,N,N
+64,Accessories,Accessories,Team Cap,Barcelona Team Cap,"A sleek cap to support your team on and off the field.",One Size,0.04,$0.80,Y,N,N
+65,Accessories,Accessories,Team Wristband,Barcelona Team Wristband,"Sport the colors with this comfortable wristband, perfect for game day.",One Size,0.04,$0.80,Y,N,N
+66,Limited Edition Soccer Boots,Soccer Boots,Limited Edition Boots - Small,Barcelona Limited Edition Boots - Small,"Limited edition boots that combine cutting-edge design with elite performance.",Standard,0.99,$4.95,Y,N,N
+67,Limited Edition Soccer Boots,Soccer Boots,Limited Edition Boots - Large,Barcelona Limited Edition Boots - Large,"Step into exclusivity with these limited edition boots, crafted for champions.",Standard,1.19,$5.95,Y,Y,N
+68,Limited Edition Soccer Boots,Soccer Boots,Limited Edition Boots - Special,Barcelona Limited Edition Boots - Special,"Celebrate the season with these special edition boots featuring unique design accents.",Standard,2.81,$3.75,Y,N,Y
+75,Soccer Shorts,Shorts,Classic Match Shorts,Barcelona Classic Match Shorts,"Flawlessly crafted for comfort and style on game day.",One Size,2.11,$3.25,N,N,N
+70,Soccer Shorts,Shorts,Retro Match Shorts,Barcelona Retro Match Shorts,"Inspired by vintage design, these shorts offer a classic look with modern comfort.",One Size,2.11,$3.25,N,N,N
+71,Soccer Shorts,Shorts,Performance Match Shorts,Barcelona Performance Match Shorts,"Engineered for peak performance, these shorts provide optimal mobility.",One Size,2.44,$3.75,N,N,N
+72,Soccer Shorts,Shorts,Training Shorts,Barcelona Training Shorts,"Lightweight and breathable, perfect for training sessions.",One Size,2.11,$3.25,N,N,N
+73,Soccer Shorts,Shorts,Casual Shorts,Barcelona Casual Shorts,"Versatile shorts designed for both practice and leisure.",One Size,2.44,$3.75,N,N,N
+74,Soccer Shorts,Shorts,Utility Shorts,Barcelona Utility Shorts,"Functional design with extra pockets for all your essentials.",One Size,2.28,$3.50,N,N,N
+69,Soccer Shorts,Shorts,Sport Shorts,Barcelona Sport Shorts,"High-performance sport shorts built for the dynamic athlete.",One Size,2.28,$3.50,N,N,N
+76,Soccer Shorts,Shorts,Elite Match Shorts,Barcelona Elite Match Shorts,"Elite design for top-tier performance and comfort.",One Size,2.28,$3.50,N,N,N
+77,Soccer Shorts,Shorts,Signature Match Shorts,Barcelona Signature Match Shorts,"Sport the signature style of champions with these premium shorts.",One Size,1.95,$3.00,N,N,N
+78,Soccer Shorts,Shorts,Anniversary Match Shorts,Barcelona Anniversary Match Shorts,"Celebrate with style in these exclusive anniversary shorts.",One Size,2.93,$4.50,N,N,N
+79,Soccer Shorts,Shorts,Limited Edition Match Shorts,Barcelona Limited Edition Match Shorts,"Limited edition design that offers a unique blend of tradition and innovation.",One Size,2.44,$3.75,N,N,N
+80,Fan Merchandise,Clothing,Fan Cap,Barcelona Fan Cap,"Show your support with this stylish fan cap, perfect for match days.",One Size,7.36,$23.00,N,N,N
+81,Fan Merchandise,Clothing,Fan T-Shirt,Barcelona Fan T-Shirt,"Comfortable and trendy, this fan t-shirt is a must-have for every supporter.",One Size,8.96,$28.00,N,N,N
+82,Fan Merchandise,Accessories,Fan Scarf,Barcelona Fan Scarf,"Wrap yourself in team spirit with this stylish fan scarf.",One Size,3.84,$12.00,N,N,N
+83,Fan Merchandise,Accessories,Fan Flag,Barcelona Fan Flag,"Wave your pride with this vibrant fan flag, perfect for rallies.",One Size,4.48,$14.00,N,N,N
+84,Accessories,Accessories,Team Headband,Barcelona Team Headband,"Keep sweat at bay with this stylish headband, a perfect accessory for any match.",One Size,0.04,$0.80,Y,N,N
+85,Soccer Equipment,Soccer Balls,Match Ball,Barcelona Official Match Ball,"Experience precision and control with this official match ball.",Standard,1.2,$6.00,Y,N,Y
+87,Soccer Equipment,Training Equipment,Training Cone,Barcelona Training Cone Set,"Enhance your drills with this set of durable training cones.",Standard,0.6,$3.00,Y,N,N
+88,Soccer Equipment,Training Equipment,Agility Ladder,Barcelona Agility Ladder,"Boost your agility and speed with this versatile training ladder.",Standard,0.42,$2.10,Y,Y,N
+89,Soccer Socks,Crew Socks,Promo Socks,Barcelona Promo Socks,"Limited time offer: Grab these promotional socks and show off your team pride.",One Size,1.72,$2.65,N,Y,N
